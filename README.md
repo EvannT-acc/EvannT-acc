@@ -1,5 +1,5 @@
 # A propos de moi
-Développeur Junior en apprentissage — actuellement en **BTS SIO option SLAM**  
+Développeur Junior en apprentissage - actuellement en **BTS SIO option SLAM**  
 Passionné par le développement logiciel, l’automatisation de données et l’architecture d’applications.
 
 ---
