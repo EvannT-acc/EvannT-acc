@@ -10,9 +10,9 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;" width="98%">
   <img alt="Connect" width="98%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/encadrement_connect_with_me.png" />
   <div width="98%" style="display: flex; flex-direction: row; align-items: center;">
-    <a href="https://discord.com/users/evi9n."><img width="32.2%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_discord.png" alt="Discord"/></a>
-    <a href="mailto:evann.terrier17@gmail.com"><img width="32.2%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_gmail.png" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/evann-terrier/"><img width="32.2%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_Iinkedin.png" alt="LinkedIn"/></a>
+    <a href="https://discord.com/users/evi9n."><img width="32.3%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_discord.png" alt="Discord"/></a>
+    <a href="mailto:evann.terrier17@gmail.com"><img width="32.3%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_gmail.png" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/evann-terrier/"><img width="32.3%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_Iinkedin.png" alt="LinkedIn"/></a>
   </div>
   <img width="98%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/fin_encadrement_connect_with_me.png" />
 </div>
