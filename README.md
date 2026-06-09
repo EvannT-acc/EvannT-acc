@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/evi9n.">
-    <img width="32%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_discord.png" alt="Discord"/>
-  </a>
+    <img width="31%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_discord.png" alt="Discord"/>
+  </a>&nbsp;
   <a href="mailto:evann.terrier17@gmail.com">
-    <img width="32%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_gmail.png" alt="Gmail"/>
-  </a>
+    <img width="31%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_gmail.png" alt="Gmail"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/evann-terrier/">
-    <img width="32%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_Iinkedin.png" alt="LinkedIn"/>
+    <img width="31%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_Iinkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
