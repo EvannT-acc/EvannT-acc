@@ -21,7 +21,7 @@
     <a href="https://discord.com/users/evi9n.">
       <img width="32.3%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_discord.png" alt="Discord"/>
     </a>
-    <a href="mailto:evann.terrier17@gmail.com">
+    <a href="mailto:evann.terrier.fr@gmail.com">
       <img width="32.3%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/connect_gmail.png" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/evann-terrier/">
