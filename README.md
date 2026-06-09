@@ -13,15 +13,10 @@
   <img width="49%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/exemple_2_de_mes_stacks.png" />
 </div>
 
-<img align="left" alt="Tips" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/tips.png" />
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EvannT-acc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvannT-acc&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 <img align="left" alt="Connect" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/encadrement_connect_with_me.png" />
-
+ 
+ Soon
+ 
 <img align="left" alt="Fin" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/fin_encadrement_connect_with_me.png" />
 
 <div align="center">
