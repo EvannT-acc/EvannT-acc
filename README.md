@@ -6,8 +6,6 @@
 
 <img align="left" alt="Mon métier" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/mon_metier.png" />
 
-<img align="left" alt="Note" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/note.png" />
-
 <img align="left" alt="Stack" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/mes_stacks.png" />
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;" width="100%">
