@@ -6,13 +6,6 @@
 
 <img align="left" alt="Mon métier" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/mon_metier.png" />
 
-<img align="left" alt="Stack" width="100%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/mes_stacks.png" />
-
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;" width="100%">
-  <img width="49%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/exemple_1_de_mes_stacks.png" />
-  <img width="49%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/exemple_2_de_mes_stacks.png" />
-</div>
-
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;" width="98%">
   <img alt="Connect" width="98%" src="https://raw.githubusercontent.com/EvannT-acc/EvannT-acc/main/assets/encadrement_connect_with_me.png" />
   <div width="98%" style="display: flex; flex-direction: row; align-items: center;">
